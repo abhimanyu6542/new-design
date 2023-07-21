@@ -9,7 +9,7 @@ const PriceSection = () => {
     <>
       <div className="border-2 border-white priceSection h-[450px] mb-44 mt-10">
         <h1 className="heading font-bold font-roboto text-2xl leading-6 text-center mt-9 md:mt-28 ">
-          Pricing
+          Price
         </h1>
         <h1 className="text-center mt-2 md:mt-7 text-4xl mx-5 font-bold font-rubik text-[#1D2130] leading-10 ">
           Simple pricing for your business
@@ -64,8 +64,8 @@ const PriceSection = () => {
             </ul>
           </div>
         </div>
-        <div className="flex justify-center mt-10">
-        <div className="grid grid-cols-1 md:grid-cols-3 mb-5 md:w-[700px] mx-auto justify-center items-start">
+        <div className="flex justify-center mt-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 mb-5 md:w-[700px] mx-5 sm:mx-auto justify-center items-start">
           <div className="flex flex-row my-1 sm:my-auto">
             <img src={Group} alt="" />
             <span className="text-lg font-bold leading-6 text-[#171923] mx-3">
