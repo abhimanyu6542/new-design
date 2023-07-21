@@ -30,7 +30,7 @@ const Navbar = () => {
           >
             <div className="flex items-center gap-4">
               <HiMenuAlt1
-                className="text-3xl xl:hidden cursor-pointer"
+                className="text-3xl ml-10 sm:ml-0 xl:hidden cursor-pointer"
                 onClick={() => setToggle(true)}
               />
               <div className=" ml-10 tracking-wide font-bold text-center sm:text-left">
