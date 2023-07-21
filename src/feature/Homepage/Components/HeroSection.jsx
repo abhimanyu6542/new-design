@@ -10,7 +10,7 @@ const HeroSection = () => {
 
         <div className="absolute top-[50%] left-[50%] -translate-x-1/2 -translate-y-1/2">
           <h1 className="text-center mt-20 text-6xl mx-10 font-bold font-rubik text-[#1D2130] leading-[52px] lg:leading-[58px]">
-            Versatile POS Solutions for
+            Versatile POS Solu for
           </h1>
           <h1 className="text-center top-[180px] text-6xl font-bold font-rubik text-[#1D2130] leading-[52px] lg:leading-[61px]">
             Every Business Setting
